@@ -1,4 +1,4 @@
-# Hey, I'm Aqua
+# Hi, I'm aQua
 
 I am a programmer who writes code for practical purposes. I usually work alone and focus on building tools and software that serve a direct function. I tend to work on projects that interest me or solve a specific problem I encounter.
 
