@@ -6,7 +6,7 @@ I am a programmer who writes code for practical purposes. I usually work alone a
 - I primarily use Python and MQL5.  
 - I also have experience with C#, HTML, CSS, JavaScript, and Kotlin for Android development.  
 - I am currently learning Rust and developing a web browser as part of that process.  
-- My previous work includes websites, networked Python applications using Flask and Waitress, game modifications such as adding multiplayer to Shapez 2, and trading bots written in MQL5 for MetaTrader 5.  
+- My previous work includes websites, networked Python applications using Flask and Waitress, mods for games such as adding multiplayer to Shapez 2, and trading bots written in MQL5 for MetaTrader 5.  
 - I write code to understand systems and improve my workflow.
 
 ## Skills & Tools
