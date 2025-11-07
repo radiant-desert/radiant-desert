@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Aqua
 
-<!--
-**radiant-desert/radiant-desert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a programmer who writes code for practical purposes. I usually work alone and focus on building tools and software that serve a direct function. I tend to work on projects that interest me or solve a specific problem I encounter.
 
-Here are some ideas to get you started:
+## About Me
+- I primarily use Python and MQL5.  
+- I also have experience with C#, HTML, CSS, JavaScript, and Kotlin for Android development.  
+- I am currently learning Rust and developing a web browser as part of that process.  
+- My previous work includes websites, networked Python applications using Flask and Waitress, game modifications such as adding multiplayer to Shapez 2, and trading bots written in MQL5 for MetaTrader 5.  
+- I write code to understand systems and improve my workflow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Tools
+Python | MQL5 | Rust (learning) | C# | HTML | CSS | JavaScript | Kotlin | Flask | Waitress | Windows | VS Code
+
+## Current Project
+Developing a web browser in Rust.
+
+## Contact
+Email: [aquaportfolio.ie@gmail.com](mailto:aquaportfolio.ie@gmail.com)  
+Discord: aquamp4
