@@ -13,7 +13,7 @@ I am a programmer who writes code for practical purposes. I usually work alone a
 Python | MQL5 | Rust (learning) | C# | HTML | CSS | JavaScript | Kotlin | Flask | Waitress | Windows | VS Code
 
 ## Current Project
-Developing a web browser in Rust.
+Developing a web browser in Rust. (help)
 
 ## Contact
 Email: [aquaportfolio.ie@gmail.com](mailto:aquaportfolio.ie@gmail.com)  
